@@ -1,0 +1,8 @@
+{
+  "name": "TodoList",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/POPOTINESU/TodoList.git",
+  "author": "重国",
+  "license": "MIT"
+}
